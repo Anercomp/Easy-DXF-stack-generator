@@ -1,0 +1,1 @@
+This project makes use of dxf2gcode from https://sourceforge.net/projects/dxf2gcode/. Big thanks to Christi_ko for fixing bugs relevant for this project and of course dwrobel, jp1357, neveruml, rli, treki, andyz, innerbushman, poofjunior, propcoder, sanzamoyski and seb_kuzminsky for developing dxf2gcode. 
