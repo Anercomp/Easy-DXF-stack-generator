@@ -1,20 +1,20 @@
-Easy DXF stack generator
+# Easy DXF stack generator
 This project is a custom tool that enhances the DXF2Gcode project with features optimized for single-layer 3D printing and specific G-code modifications. It adapts DXF files for additive manufacturing, especially Melt Electro Writing, includes height and extrusion calculations, and provides tools for organizing G-code blocks.
 
-Features
+## Features
 DXF to G-code Conversion: Converts DXF files to G-code for single-layer 3D printing.
 Extrusion and Height Calculations: Automatically calculates extrusion rates and height values based on specified factors.
 G-code Inversion: Reverses G-code vectors and order to make the machine move from the end position back to the start.
 Block Management: Ensures correct G-code block structures, preventing nested and overlapping blocks.
 Configuration Management: Automatically copies custom configuration files to the user's .config directory.
-Installation
+## Installation
 Clone the Repository:
 
 git clone https://github.com/Anercomp/Easy-DXF-stack-generator.git
 
 This build already comes with dxf2gcode. Notepad++ is not needed but recommended, as well as NCnetic. Every tool and ressource can be checked with the top right button. This will take care of Notepad++ recognition, NCnetic installation and a gcode block UDL. 
 
-Usage
+## Usage
 G-code Editing:
 
 Open your G-code in the provided editor.
