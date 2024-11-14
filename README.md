@@ -11,7 +11,8 @@ Installation
 Clone the Repository:
 
 git clone https://github.com/Anercomp/Easy-DXF-stack-generator.git
-cd Easy-DXF-stack-generator
+
+This build already comes with dxf2gcode. Notepad++ is not needed but recommended, as well as NCnetic. Every tool and ressource can be checked with the top right button. This will take care of Notepad++ recognition, NCnetic installation and a gcode block UDL. 
 
 Usage
 G-code Editing:
