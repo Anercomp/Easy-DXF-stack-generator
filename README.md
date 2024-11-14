@@ -32,10 +32,10 @@ Arrow markers with adjustable size show the direction of each G-code segment wit
 Invert G-code Path:
 Reverse the G-code path and vectors to have the machine retrace its path in reverse order.
 
-Configuration
+Configuration:
 The program uses postpro_config.cfg and config.cfg files for settings. These should be located in your .config\dxf2gcode directory after installation.
 
-Troubleshooting
+Troubleshooting:
 Configuration File Location: Verify that the configuration files are correctly copied to the user's .config directory.
 
 This project makes use of dxf2gcode from https://sourceforge.net/projects/dxf2gcode/. Big thanks to Christi_ko for fixing bugs relevant for this project and of course dwrobel, jp1357, neveruml, rli, treki, andyz, innerbushman, poofjunior, propcoder, sanzamoyski and seb_kuzminsky for developing dxf2gcode. 
