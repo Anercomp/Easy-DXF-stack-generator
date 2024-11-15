@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "EDSTAG - Backup/1.0.0": {
+      "EDSTAG/1.0.0": {
         "runtime": {
-          "EDSTAG - Backup.dll": {}
+          "EDSTAG.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "EDSTAG - Backup/1.0.0": {
+    "EDSTAG/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
