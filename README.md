@@ -23,7 +23,7 @@ The program ensures each block is well-structured, with proper start and stop ma
 
 Adjusting Extrusion and Height:
 The parameters after a block start override the value specified in the up-down boxes.
-Modify the inserted extrusion factor or block height using the up-down boxes, automatically applying height increments based on the block’s length.
+Modify the extrusion factor or block height that will be inserted using the up-down boxes, automatically applying height increments based on the block’s length.
 
 G-code Visualization:
 The program displays G-code paths visually in a PictureBox, allowing zoom and pan adjustments.
