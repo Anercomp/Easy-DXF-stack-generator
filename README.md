@@ -1,3 +1,9 @@
+1) Click the green Code button. From the dropdown menu select Download ZIP.
+2) Unzip the downloaded file by right clicking and selecting extract to…”file name”
+3) Open EDSTAG.exe from the extracted archive
+4) Once the program opens, click "Check Dependencies" in the top right corner and follow the instructions (some prompts have the text with the instructions what to select in the upper tab of the window that is opened).
+5) EDSTAG, Notepad++, the UDL and NCnetic should now be ready to use as described in the publication.
+
 # Easy DXF stack generator
 This project is a custom tool that enhances the DXF2Gcode project with features optimized for single-layer 3D printing and specific G-code modifications. It adapts DXF files for additive manufacturing, especially Melt Electro Writing, includes height and extrusion calculations, and provides tools for organizing G-code blocks.
 
