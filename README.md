@@ -1,6 +1,6 @@
 1) Click the green Code button. From the dropdown menu select Download ZIP.
 2) Unzip the downloaded file by right clicking and selecting extract to…”file name”
-3) Open EDSTAG.exe from the extracted archive
+3) Open EDSTAG.exe (Windows only) from the extracted archive
 4) Once the program opens, click "Check Dependencies" in the top right corner and follow the instructions (some prompts have the text with the instructions what to select in the upper tab of the window that is opened).
 5) EDSTAG, Notepad++, the UDL and NCnetic should now be ready to use as described in the publication.
 
